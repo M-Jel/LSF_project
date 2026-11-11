@@ -1,0 +1,11 @@
+.venv/
+references/
+data/
+models/
+*.task
+*.pth
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.env
