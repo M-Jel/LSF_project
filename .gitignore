@@ -1,7 +1,7 @@
 .venv/
 references/
-data/
-models/
+/data/
+/models/
 *.task
 *.pth
 *.pt
@@ -9,3 +9,7 @@ models/
 __pycache__/
 *.pyc
 .env
+*.npz
+runs/
+.pytest_cache/
+*.egg-info/
